@@ -208,6 +208,7 @@ set (VictronVenusOS_QML_MODULE_SOURCES
     components/listitems/ListOutputBatteryRadioButtonGroup.qml
     components/listitems/ListPasswordField.qml
     components/listitems/ListPvInverterPositionRadioButtonGroup.qml
+    components/listitems/ListQrCode.qml
     components/listitems/ListRebootButton.qml
     components/listitems/ListRelayState.qml
     components/listitems/ListSpinBoxRange.qml
@@ -399,6 +400,8 @@ set (VictronVenusOS_QML_MODULE_SOURCES
     pages/settings/PageSettingsDocumentation.qml
     pages/settings/PageSettingsDvcc.qml
     pages/settings/PageSettingsDynamicEss.qml
+    pages/settings/PageSettingsEebus.qml
+    pages/settings/PageSettingsEebusDevice.qml
     pages/settings/PageSettingsEthernet.qml
     pages/settings/PageSettingsFirmware.qml
     pages/settings/PageSettingsFirmwareOffline.qml
